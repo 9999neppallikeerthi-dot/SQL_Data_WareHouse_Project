@@ -14,6 +14,7 @@ Exploratory Data Analysis (EDA)
 
 Advanced analytical queries for business insights
 
+<img src="C:\Users\9999n\OneDrive\Pictures\Screenshots" alt="Description">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img width="2121" height="1376" alt="Screenshot 2026-01-10 222014" src="https://github.com/user-attachments/assets/c5f2c587-3bcf-4e45-8112-6e053096143d" />
 
