@@ -1,2 +1,11 @@
-# SQL_Data_WareHouse_Project
-An end-to-end SQL Data Warehouse project covering ETL processing, dimensional data modeling, and analytical reporting. The repository demonstrates real-world data engineering practices including schema design, transformations, data quality checks, and performance-optimized analytics queries.
+**SQL Data Warehouse & Advanced Analytics Project**
+
+This repository contains an end-to-end implementation of a SQL Data Warehouse built using Medallion Architecture.
+
+🔹 Project Highlights:
+
+Bronze, Silver, and Gold layer design
+ETL pipelines from raw CSV files
+Star Schema (Fact & Dimension views)
+Exploratory Data Analysis (EDA)
+Advanced analytical queries for business insights
