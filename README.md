@@ -5,10 +5,15 @@ This repository contains an end-to-end implementation of a SQL Data Warehouse bu
 🔹 Project Highlights:
 
 Bronze, Silver, and Gold layer design
+
 ETL pipelines from raw CSV files
+
 Star Schema (Fact & Dimension views)
+
 Exploratory Data Analysis (EDA)
-Advanced analytical queries for business insights.
+
+Advanced analytical queries for business insights
+
 
 <img width="2121" height="1376" alt="Screenshot 2026-01-10 222014" src="https://github.com/user-attachments/assets/c5f2c587-3bcf-4e45-8112-6e053096143d" />
 
