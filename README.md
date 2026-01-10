@@ -14,7 +14,12 @@ Advanced analytical queries for business insights.
 
 
 
+
+
 <img width="2218" height="1268" alt="image" src="https://github.com/user-attachments/assets/dd3a1237-95c1-4a5b-b27c-8dc8053340ba" />
+
+
+
 
 
 
