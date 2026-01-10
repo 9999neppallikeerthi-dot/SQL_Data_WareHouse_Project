@@ -12,7 +12,11 @@ Advanced analytical queries for business insights.
 
 <img width="2121" height="1376" alt="Screenshot 2026-01-10 222014" src="https://github.com/user-attachments/assets/c5f2c587-3bcf-4e45-8112-6e053096143d" />
 
+
+
 <img width="2218" height="1268" alt="image" src="https://github.com/user-attachments/assets/dd3a1237-95c1-4a5b-b27c-8dc8053340ba" />
+
+
 
 <img width="1840" height="1210" alt="Star_Schema" src="https://github.com/user-attachments/assets/b8fc77cc-773a-4c9f-b2d0-25b4fbf90056" />
 
